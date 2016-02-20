@@ -1,0 +1,25 @@
+{
+  "name": "AccountPod",
+  "version": "0.1.0",
+  "summary": "A short description of AccountPod.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/AccountPod",
+  "license": "MIT",
+  "authors": {
+    "lishurui": "lsr@platomix.net"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/AccountPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "AccountPod": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

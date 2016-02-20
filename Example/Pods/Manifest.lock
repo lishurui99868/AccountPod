@@ -1,0 +1,14 @@
+PODS:
+  - AccountPod (0.1.0)
+
+DEPENDENCIES:
+  - AccountPod (from `../`)
+
+EXTERNAL SOURCES:
+  AccountPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AccountPod: 5dbbd4588fa84bb737715b286826367ff9f9d019
+
+COCOAPODS: 0.39.0
