@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "AccountPod"
-  s.version          = "0.0.1"
+  s.version          = "1.0.0"
   s.summary          = "通用的登陆注册，手机绑定模块"
 
 # This description is used to generate tags and improve search results.
