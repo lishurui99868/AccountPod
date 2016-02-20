@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "AccountPod"
-  s.version          = "0.1.0"
+  s.version          = "0.0.1"
   s.summary          = "通用的登陆注册，手机绑定模块"
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
                         DESC
 
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/AccountPod"
+  s.homepage         = "https://github.com/lishurui99868/AccountPod"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "lishurui" => "lsr@platomix.net" }
